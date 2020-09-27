@@ -1,3 +1,4 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 Content/Curiosity_Panorama_Image_Environment.hdr filter=lfs diff=lfs merge=lfs -text
 Content/Curiosity_Panorama_Image_Environment.uasset filter=lfs diff=lfs merge=lfs -text
+*HDRI_Epic_Courtyard_Daylight.uasset filter=lfs diff=lfs merge=lfs -text
